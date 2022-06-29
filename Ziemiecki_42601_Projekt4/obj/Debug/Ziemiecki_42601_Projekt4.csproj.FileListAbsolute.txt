@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\bin\Debug\Ziemiecki_42601_Projekt4.exe.config
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\bin\Debug\Ziemiecki_42601_Projekt4.exe
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\bin\Debug\Ziemiecki_42601_Projekt4.pdb
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.Properties.Resources.resources
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.exe
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.pdb
+C:\Users\Admin\Desktop\shl\CSharp\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.iz_PulpitBankomatu.resources
+C:\Users\Admin\Desktop\shl\CSharp\Nowy folder (2)\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\bin\Debug\Ziemiecki_42601_Projekt4.exe.config
+C:\Users\Admin\Desktop\shl\CSharp\Nowy folder (2)\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.exe
+C:\Users\Admin\Desktop\shl\CSharp\Nowy folder (2)\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\Ziemiecki_42601_Projekt4\obj\Debug\Ziemiecki_42601_Projekt4.pdb
